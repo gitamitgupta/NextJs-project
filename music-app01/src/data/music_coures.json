@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Master the piano fundamentals and start playing your favorite tunes in weeks.",
+      "price": 119.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Photography Masterclass",
+      "slug": "photography-masterclass",
+      "description": "Learn professional photography techniques and start taking stunning photos.",
+      "price": 149.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": true,
+      "image": "/courses/photography.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Web Development Bootcamp",
+      "slug": "web-development-bootcamp",
+      "description": "Become a full-stack web developer by learning HTML, CSS, JavaScript, and more.",
+      "price": 199.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "/courses/webdev.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing Essentials",
+      "slug": "digital-marketing-essentials",
+      "description": "Learn SEO, social media marketing, and advertising strategies to grow any brand.",
+      "price": 129.99,
+      "instructor": "Robert Wilson",
+      "isFeatured": false,
+      "image": "/courses/marketing.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cooking Made Easy",
+      "slug": "cooking-made-easy",
+      "description": "Discover easy and delicious recipes that you can make at home.",
+      "price": 79.99,
+      "instructor": "Sophia Martinez",
+      "isFeatured": false,
+      "image": "/courses/cooking.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Fitness and Wellness",
+      "slug": "fitness-and-wellness",
+      "description": "Get in shape and improve your overall health with expert fitness guidance.",
+      "price": 89.99,
+      "instructor": "Chris Brown",
+      "isFeatured": true,
+      "image": "/courses/fitness.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Creative Writing Workshop",
+      "slug": "creative-writing-workshop",
+      "description": "Enhance your storytelling skills and learn to write compelling narratives.",
+      "price": 109.99,
+      "instructor": "Laura Thompson",
+      "isFeatured": false,
+      "image": "/courses/writing.jpg"
+    }
+  ]
+}
