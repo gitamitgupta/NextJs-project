@@ -2,6 +2,9 @@ import FeaturedCourse from "@/components/FeaturedCourse";
 import HeroSection from "../components/HeroSection";
 import StickyScrollRevealDemo from "../components/WhyChoseUs";
 import InfiniteMovingCardsDemo from "../components/Testimonial"
+import UpcomingWebinars from "../components/UpcomingWebnar"
+import AnimatedTooltipPreview from "../components/Instructors"
+import Footer from "../components/Fotter";
 export default function Home() {
   return (
     <h1 className="min-h-screen bg-black/[.96] antialiased bg-grid-white/[0.02]">
@@ -9,6 +12,9 @@ export default function Home() {
    <FeaturedCourse/>
    <StickyScrollRevealDemo/>
    <InfiniteMovingCardsDemo/>
+   <UpcomingWebinars/>
+   <AnimatedTooltipPreview/>
+   <Footer/>
     </h1>
   );
 }
